@@ -1,10 +1,10 @@
 package context
 
 import (
-	"github.com/baetyl/baetyl-go/v2/http"
-	"github.com/baetyl/baetyl-go/v2/log"
-	"github.com/baetyl/baetyl-go/v2/mqtt"
-	"github.com/baetyl/baetyl-go/v2/utils"
+	"github.com/baetyl/baetyl-go/v3/http"
+	"github.com/baetyl/baetyl-go/v3/log"
+	"github.com/baetyl/baetyl-go/v3/mqtt"
+	"github.com/baetyl/baetyl-go/v3/utils"
 )
 
 const (

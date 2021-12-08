@@ -3,8 +3,8 @@ package dmcontext
 import (
 	"time"
 
-	mqtt2 "github.com/baetyl/baetyl-go/v2/mqtt"
-	v1 "github.com/baetyl/baetyl-go/v2/spec/v1"
+	mqtt2 "github.com/baetyl/baetyl-go/v3/mqtt"
+	v1 "github.com/baetyl/baetyl-go/v3/spec/v1"
 )
 
 type DeviceInfo struct {

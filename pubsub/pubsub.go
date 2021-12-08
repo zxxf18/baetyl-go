@@ -6,8 +6,8 @@ import (
 	"sync"
 	"time"
 
-	"github.com/baetyl/baetyl-go/v2/errors"
-	"github.com/baetyl/baetyl-go/v2/log"
+	"github.com/baetyl/baetyl-go/v3/errors"
+	"github.com/baetyl/baetyl-go/v3/log"
 )
 
 const (

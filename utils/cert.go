@@ -5,7 +5,7 @@ import (
 
 	"github.com/docker/go-connections/tlsconfig"
 
-	"github.com/baetyl/baetyl-go/v2/errors"
+	"github.com/baetyl/baetyl-go/v3/errors"
 )
 
 // Certificate certificate config for server

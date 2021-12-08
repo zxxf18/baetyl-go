@@ -10,7 +10,7 @@ import (
 
 	"github.com/stretchr/testify/assert"
 
-	"github.com/baetyl/baetyl-go/v2/utils"
+	"github.com/baetyl/baetyl-go/v3/utils"
 )
 
 func TestHttpServer(t *testing.T) {

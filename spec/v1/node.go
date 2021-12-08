@@ -12,9 +12,9 @@ import (
 	coreV1 "k8s.io/api/core/v1"
 	"k8s.io/apimachinery/pkg/api/resource"
 
-	"github.com/baetyl/baetyl-go/v2/context"
-	"github.com/baetyl/baetyl-go/v2/errors"
-	"github.com/baetyl/baetyl-go/v2/log"
+	"github.com/baetyl/baetyl-go/v3/context"
+	"github.com/baetyl/baetyl-go/v3/errors"
+	"github.com/baetyl/baetyl-go/v3/log"
 )
 
 // maxJSONLevel the max level of json

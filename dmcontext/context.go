@@ -10,12 +10,12 @@ import (
 
 	"gopkg.in/yaml.v2"
 
-	"github.com/baetyl/baetyl-go/v2/context"
-	"github.com/baetyl/baetyl-go/v2/errors"
-	"github.com/baetyl/baetyl-go/v2/log"
-	mqtt2 "github.com/baetyl/baetyl-go/v2/mqtt"
-	v1 "github.com/baetyl/baetyl-go/v2/spec/v1"
-	"github.com/baetyl/baetyl-go/v2/utils"
+	"github.com/baetyl/baetyl-go/v3/context"
+	"github.com/baetyl/baetyl-go/v3/errors"
+	"github.com/baetyl/baetyl-go/v3/log"
+	mqtt2 "github.com/baetyl/baetyl-go/v3/mqtt"
+	v1 "github.com/baetyl/baetyl-go/v3/spec/v1"
+	"github.com/baetyl/baetyl-go/v3/utils"
 )
 
 const (

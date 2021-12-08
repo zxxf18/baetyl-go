@@ -8,9 +8,9 @@ import (
 
 	"github.com/stretchr/testify/assert"
 
-	"github.com/baetyl/baetyl-go/v2/log"
-	"github.com/baetyl/baetyl-go/v2/mock"
-	"github.com/baetyl/baetyl-go/v2/utils"
+	"github.com/baetyl/baetyl-go/v3/log"
+	"github.com/baetyl/baetyl-go/v3/mock"
+	"github.com/baetyl/baetyl-go/v3/utils"
 )
 
 func TestMqttClientConnectErrorMissingAddress(t *testing.T) {

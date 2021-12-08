@@ -6,10 +6,10 @@ import (
 
 	"github.com/256dpi/gomqtt/packet"
 
-	"github.com/baetyl/baetyl-go/v2/errors"
-	"github.com/baetyl/baetyl-go/v2/log"
-	"github.com/baetyl/baetyl-go/v2/mqtt"
-	v1 "github.com/baetyl/baetyl-go/v2/spec/v1"
+	"github.com/baetyl/baetyl-go/v3/errors"
+	"github.com/baetyl/baetyl-go/v3/log"
+	"github.com/baetyl/baetyl-go/v3/mqtt"
+	v1 "github.com/baetyl/baetyl-go/v3/spec/v1"
 )
 
 const (

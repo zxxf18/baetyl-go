@@ -3,7 +3,7 @@ package utils
 import (
 	"github.com/mholt/archiver"
 
-	"github.com/baetyl/baetyl-go/v2/errors"
+	"github.com/baetyl/baetyl-go/v3/errors"
 )
 
 var defaultTar = &archiver.Tar{

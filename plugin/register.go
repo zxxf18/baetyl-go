@@ -6,7 +6,7 @@ import (
 	"strings"
 	"sync"
 
-	"github.com/baetyl/baetyl-go/v2/log"
+	"github.com/baetyl/baetyl-go/v3/log"
 )
 
 // Plugin interfaces

@@ -9,9 +9,9 @@ import (
 	"github.com/fsnotify/fsnotify"
 	"gopkg.in/yaml.v2"
 
-	"github.com/baetyl/baetyl-go/v2/errors"
-	"github.com/baetyl/baetyl-go/v2/log"
-	"github.com/baetyl/baetyl-go/v2/utils"
+	"github.com/baetyl/baetyl-go/v3/errors"
+	"github.com/baetyl/baetyl-go/v3/log"
+	"github.com/baetyl/baetyl-go/v3/utils"
 )
 
 const (

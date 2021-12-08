@@ -14,7 +14,7 @@ import (
 	"gopkg.in/validator.v2"
 	"gopkg.in/yaml.v2"
 
-	"github.com/baetyl/baetyl-go/v2/errors"
+	"github.com/baetyl/baetyl-go/v3/errors"
 )
 
 // LoadYAML config into out interface, with defaults and validates

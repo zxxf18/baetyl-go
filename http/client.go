@@ -9,7 +9,7 @@ import (
 	gohttp "net/http"
 	"strings"
 
-	"github.com/baetyl/baetyl-go/v2/errors"
+	"github.com/baetyl/baetyl-go/v3/errors"
 )
 
 var jsonHeaders = map[string]string{"Content-Type": "application/json"}

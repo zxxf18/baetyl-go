@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"os"
 
-	"github.com/baetyl/baetyl-go/v2/errors"
+	"github.com/baetyl/baetyl-go/v3/errors"
 )
 
 // All keys

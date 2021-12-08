@@ -1,8 +1,8 @@
 package native
 
 import (
-	"github.com/baetyl/baetyl-go/v2/errors"
-	"github.com/baetyl/baetyl-go/v2/utils"
+	"github.com/baetyl/baetyl-go/v3/errors"
+	"github.com/baetyl/baetyl-go/v3/utils"
 )
 
 type PortAllocator struct {

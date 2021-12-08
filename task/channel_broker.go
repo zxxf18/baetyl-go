@@ -3,7 +3,7 @@ package task
 import (
 	"time"
 
-	"github.com/baetyl/baetyl-go/v2/errors"
+	"github.com/baetyl/baetyl-go/v3/errors"
 )
 
 var (

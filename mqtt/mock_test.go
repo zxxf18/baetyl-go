@@ -11,7 +11,7 @@ import (
 	"github.com/256dpi/gomqtt/transport"
 	"github.com/stretchr/testify/assert"
 
-	"github.com/baetyl/baetyl-go/v2/mock"
+	"github.com/baetyl/baetyl-go/v3/mock"
 )
 
 type mockObserver struct {
